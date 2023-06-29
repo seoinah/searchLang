@@ -1,0 +1,23 @@
+{
+  "name": "searchLang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve -s"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grepp/web-202203-DevMatching-webfe-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grepp/web-202203-DevMatching-webfe-client/issues"
+  },
+  "homepage": "https://github.com/grepp/web-202203-DevMatching-webfe-client#readme",
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
